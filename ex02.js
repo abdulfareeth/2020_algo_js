@@ -1,7 +1,7 @@
 var isLogin = true;
 console.log(isLogin ? "Connected" : "NotAuthorised");
-/*
-var isLogin = false;
+
+/*var isLogin = false;
 console.log(isLogin ? "Connected" : "NotAuthorised");*/
 
 /*
@@ -12,5 +12,14 @@ The first argument is a comparison argument,
   If it helps you can think of the operator as shortened way of writing an if-else statement.
   
   condition ? value_if_true : value_if_false*/
+
+
+  /*var isLogin = false;
+  if (isLogin == true){
+      console.log('connected');
+      }
+      else{
+          console.log('NotAuthorised');
+      }*/
 
  
