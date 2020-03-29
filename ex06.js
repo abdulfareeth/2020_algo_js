@@ -3,7 +3,7 @@
 function yes(){
     return true;
 }
-console.log(yesgi());
+console.log(yes());
 //02
 
 
